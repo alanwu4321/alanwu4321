@@ -4,13 +4,13 @@
 
 ----
 <p align="center">
-  <img style="position: relative; top:31px;" src="https://github.com/alanwu4321/alanwu4321/blob/master/Apple_logo_grey.svg" width="25px" > <strong style="position: relative; top:31px; margin-bottom: 5px; font-style: bold;"> Software Engineering Intern @ Apple </strong>
+  <img style="position: relative; top:31px;" src="https://github.com/alanwu4321/alanwu4321/blob/master/Apple_logo_grey.svg" width="25px" > <em style="position: relative; top:31px; margin-bottom: 5px; font-style: bold;"> &nbsp; &nbsp; Software Engineering Intern @ Apple </em>
 </p>
 <p align="center">
-<img src="https://github.com/alanwu4321/alanwu4321/blob/master/shopify-logo-svg-vector.svg" width="25px">  <strong> Previously Production Engineer Intern @ Shopify  </strong>
+<img src="https://github.com/alanwu4321/alanwu4321/blob/master/shopify-logo-svg-vector.svg" width="25px"> &nbsp; &nbsp; <em> Previously Production Engineer Intern @ Shopify  </em>
   </p>
 <p align="center">
-<img src="https://github.com/alanwu4321/alanwu4321/blob/master/rsz_1university-of-waterloo-1-logo-png-transparent_1.png" width="27px">  <strong>  Management Engineering @ UWaterloo  </strong>
+<img src="https://github.com/alanwu4321/alanwu4321/blob/master/rsz_1university-of-waterloo-1-logo-png-transparent_1.png" width="27px">  &nbsp; &nbsp;<em>  Management Engineering @ UWaterloo  </em>
   </p>
 
 
