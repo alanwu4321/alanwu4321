@@ -4,6 +4,9 @@
 
 ----
 <p align="center">
+  <img style="position: relative; top:31px;" src="https://github.com/alanwu4321/alanwu4321/blob/master/tesla.png" width="22px" > <em style="position: relative; top:31px; margin-bottom: 5px; font-style: bold;"> &nbsp; &nbsp; Software Engineering Intern @ Tesla </em>
+</p>
+<p align="center">
   <img style="position: relative; top:31px;" src="https://github.com/alanwu4321/alanwu4321/blob/master/Apple_logo_grey.svg" width="22px" > <em style="position: relative; top:31px; margin-bottom: 5px; font-style: bold;"> &nbsp; &nbsp; Software Engineering Intern @ Apple </em>
 </p>
 <p align="center">
