@@ -4,10 +4,13 @@
 
 ----
 <p align="center">
-  <img style="position: absolute; top:20px;" src="https://github.com/alanwu4321/alanwu4321/blob/master/fb.png" width="26px" > <em style="position: relative;  margin-bottom: 2px; font-style: bold;"> &nbsp; &nbsp; Software Engineering Intern @ Facebook </em>
+  <img style="position: relative; top:15px;" src="https://github.com/alanwu4321/alanwu4321/blob/master/logoblack-bc9f1a716ed9804403cd31a83ad81495.gif" width="38px" > <em style="position: relative; top:15px; margin-bottom: 10px; font-style: bold;"> &nbsp; &nbsp; Co-Founder & CTO @ Crypto Arsenal </em>
 </p>
 <p align="center">
-  <img style="position: relative; top:15px;" src="https://github.com/alanwu4321/alanwu4321/blob/master/logoblack-bc9f1a716ed9804403cd31a83ad81495.gif" width="38px" > <em style="position: relative; top:15px; margin-bottom: 10px; font-style: bold;"> &nbsp; &nbsp; Co-Founder & CTO @ Crypto Arsenal </em>
+  <img style="position: absolute; top:20px;" src="https://github.com/alanwu4321/alanwu4321/blob/master/fb.png" width="26px" > <em style="position: relative;  margin-bottom: 2px; font-style: bold;"> &nbsp; &nbsp; Software Engineering Intern @ Meta/Facebook </em>
+</p>
+<p align="center">
+  <img style="position: absolute; top:20px;" src="https://github.com/alanwu4321/alanwu4321/blob/master/yahoo.png" width="26px" > <em style="position: relative;  margin-bottom: 2px; font-style: bold;"> &nbsp; &nbsp; Software Engineering Intern @ Yahoo </em>
 </p>
 <p align="center">
   <img style="position: relative; top:36px;" src="https://github.com/alanwu4321/alanwu4321/blob/master/tesla.png" width="25px" > <em style="position: relative; top:35px; margin-bottom: 5px; font-style: bold;"> &nbsp; &nbsp; Software Engineering Intern @ Tesla </em>
