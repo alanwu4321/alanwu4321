@@ -4,7 +4,7 @@
 
 ----
 <p align="center">
-  <img style="position: relative; top:15px;" src="https://github.com/alanwu4321/alanwu4321/blob/master/ca.png" width="20px" > <em style="position: relative; top:15px; margin-bottom: 10px; font-style: bold;"> &nbsp; &nbsp; Co-Founder & CTO @ Crypto Arsenal </em>
+  <img style="position: relative; top:10px; left:15px;" src="https://github.com/alanwu4321/alanwu4321/blob/master/ca.png" width=35px" > <em style="position: relative; top:15px; margin-bottom: 10px; font-style: bold;"> &nbsp; &nbsp; Co-Founder & CTO @ Crypto Arsenal </em>
 </p>
 <p align="center">
   <img style="position: absolute; top:20px;" src="https://github.com/alanwu4321/alanwu4321/blob/master/fb.png" width="26px" > <em style="position: relative;  margin-bottom: 2px; font-style: bold;"> &nbsp; &nbsp; Software Engineering Intern @ Meta/Facebook </em>
